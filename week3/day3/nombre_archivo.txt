@@ -1,0 +1,8 @@
+A string to write
+A string to write 0
+A string to write 1
+A string to write 2
+
+------
+ Last Line.
+ 
