@@ -1,4 +1,8 @@
 *.csv
 *.sav
+*.zip
+*.tsv
+aclimdb/
+aclImdb_v1.tar.gz.tar.gz
 # *  * no sube nada que este entre los asteriscos
 # * a la derecha no lo inlcuye 
